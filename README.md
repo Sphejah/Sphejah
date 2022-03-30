@@ -2,7 +2,9 @@
 - 👀 I’m interested in knowing how to code like a pro.
 - 🌱 I’m currently learning java programming
 - 💞️ I’m looking to collaborate on people who knows java best
-- 📫 How to reach me: FB: Siphelele Siphe Mtima
+- 📫 How to reach me: 
+- 
+-                   :FB: Siphelele Siphe Mtima
 -                   : WhatsApp: 0630759036
 -                   : Email: mtimaquest@gmail.com
 
